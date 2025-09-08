@@ -32,7 +32,7 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
-              Welcome to <span className="highlight">Divine Grace</span>
+              Welcome to <span className="highlight">Saurabh</span>
             </motion.h1>
             
             <motion.p 
